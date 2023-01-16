@@ -1,0 +1,52 @@
+/* screen - notificationcase2mesaagetype */
+
+.notificationcase2mesaagetype {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notificationcase2mesaagetype .group-3 {
+  background-color: transparent;
+  height: 591px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.notificationcase2mesaagetype .rectangle-1 {
+  background-color: var(--concrete);
+  height: 1167px;
+  width: 320px;
+}
+
+.notificationcase2mesaagetype .rectangle-2 {
+  background-color: var(--concrete);
+  height: 1080px;
+  width: 320px;
+}
+
+.notificationcase2mesaagetype .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationcase2mesaagetype .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationcase2mesaagetype .rectangle-3 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}

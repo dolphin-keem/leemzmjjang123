@@ -1,0 +1,117 @@
+/* screen - c2clifetabservicecardquicklinktype */
+
+.c2clifetabservicecardquicklinktype {
+  background-color: var(--white);
+  height: 8033px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2clifetabservicecardquicklinktype .group-45 {
+  background-color: transparent;
+  height: 2303px;
+  left: 420px;
+  position: absolute;
+  top: 3142px;
+  width: 1400px;
+}
+
+.c2clifetabservicecardquicklinktype .group-30 {
+  background-color: transparent;
+  height: 1609px;
+  left: 320px;
+  position: absolute;
+  top: 1433px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardquicklinktype .group-42 {
+  background-color: transparent;
+  height: 846px;
+  left: 320px;
+  position: absolute;
+  top: 6987px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardquicklinktype .group-40 {
+  background-color: transparent;
+  height: 1342px;
+  left: 320px;
+  position: absolute;
+  top: 5545px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardquicklinktype .group-41 {
+  background-color: transparent;
+  height: 941px;
+  left: 410px;
+  position: absolute;
+  top: 342px;
+  width: 1410px;
+}
+
+.c2clifetabservicecardquicklinktype .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardquicklinktype .life-tab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 45px;
+}
+
+.c2clifetabservicecardquicklinktype .service-card-health {
+  width: 112px;
+}
+
+.c2clifetabservicecardquicklinktype .service-card-_-basic {
+  width: 144px;
+}
+
+.c2clifetabservicecardquicklinktype .service-card-_-quick {
+  width: 184px;
+}
+
+.c2clifetabservicecardquicklinktype .loading-_-service-pl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 147px;
+}
+
+.c2clifetabservicecardquicklinktype .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardquicklinktype .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardquicklinktype .service-card {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+}

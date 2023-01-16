@@ -1,0 +1,64 @@
+/* screen - c2cdevicetabdevicecard */
+
+.c2cdevicetabdevicecard {
+  background-color: var(--white);
+  height: 1365px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cdevicetabdevicecard .group-13 {
+  background-color: transparent;
+  height: 823px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.c2cdevicetabdevicecard .group-12 {
+  background-color: transparent;
+  height: 273px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.c2cdevicetabdevicecard .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cdevicetabdevicecard .device-card {
+  margin: 0 0 0 50px;
+  width: 72px;
+}
+
+.c2cdevicetabdevicecard .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicecard .device {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  position: relative;
+}

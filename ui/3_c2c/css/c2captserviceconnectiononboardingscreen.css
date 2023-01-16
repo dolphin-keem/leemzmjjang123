@@ -1,0 +1,83 @@
+/* screen - c2captserviceconnectiononboardingscreen */
+
+.c2captserviceconnectiononboardingscreen {
+  background-color: var(--white);
+  height: 3557px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-13 {
+  background-color: transparent;
+  height: 915px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-14 {
+  background-color: transparent;
+  height: 911px;
+  left: 420px;
+  position: absolute;
+  top: 1367px;
+  width: 1400px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-15 {
+  background-color: transparent;
+  height: 912px;
+  left: 420px;
+  position: absolute;
+  top: 2445px;
+  width: 1400px;
+}
+
+.c2captserviceconnectiononboardingscreen .overview {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 56px;
+}
+
+.c2captserviceconnectiononboardingscreen .onboarding-start-p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.c2captserviceconnectiononboardingscreen .onboarding-welcome {
+  width: 169px;
+}
+
+.c2captserviceconnectiononboardingscreen .interaction-flow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

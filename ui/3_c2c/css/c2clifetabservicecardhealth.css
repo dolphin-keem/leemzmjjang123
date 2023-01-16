@@ -1,0 +1,90 @@
+/* screen - c2clifetabservicecardhealth */
+
+.c2clifetabservicecardhealth {
+  background-color: var(--white);
+  height: 1939px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2clifetabservicecardhealth .group-2 {
+  background-color: transparent;
+  height: 269px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.c2clifetabservicecardhealth .group-7 {
+  background-color: transparent;
+  height: 978px;
+  left: 420px;
+  position: absolute;
+  top: 761px;
+  width: 1400px;
+}
+
+.c2clifetabservicecardhealth .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2clifetabservicecardhealth .life-tab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 45px;
+}
+
+.c2clifetabservicecardhealth .service-card-health {
+  width: 119px;
+}
+
+.c2clifetabservicecardhealth .service-card-_-basic {
+  width: 144px;
+}
+
+.c2clifetabservicecardhealth .service-card-_-quick {
+  width: 173px;
+}
+
+.c2clifetabservicecardhealth .loading-_-service-pl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 147px;
+}
+
+.c2clifetabservicecardhealth .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardhealth .group-3 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabservicecardhealth .service-card {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+}

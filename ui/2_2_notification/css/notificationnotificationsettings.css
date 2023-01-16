@@ -1,0 +1,52 @@
+/* screen - notificationnotificationsettings */
+
+.notificationnotificationsettings {
+  background-color: var(--white);
+  height: 1189px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notificationnotificationsettings .group-7 {
+  background-color: transparent;
+  height: 705px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.notificationnotificationsettings .rectangle-1 {
+  background-color: var(--concrete);
+  height: 1167px;
+  width: 320px;
+}
+
+.notificationnotificationsettings .rectangle-2 {
+  background-color: var(--concrete);
+  height: 1080px;
+  width: 320px;
+}
+
+.notificationnotificationsettings .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationnotificationsettings .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationnotificationsettings .rectangle-3 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}

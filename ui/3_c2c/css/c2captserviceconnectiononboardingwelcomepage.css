@@ -1,0 +1,65 @@
+/* screen - c2captserviceconnectiononboardingwelcomepage */
+
+.c2captserviceconnectiononboardingwelcomepage {
+  background-color: var(--white);
+  height: 1327px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .group-6 {
+  background-color: transparent;
+  height: 843px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .overview {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 56px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .onboarding-start-p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .onboarding-welcome {
+  width: 175px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .interaction-flow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

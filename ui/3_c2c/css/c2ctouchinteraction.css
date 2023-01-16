@@ -1,0 +1,34 @@
+/* screen - c2ctouchinteraction */
+
+.c2ctouchinteraction {
+  background-color: var(--white);
+  height: 1334px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2ctouchinteraction .group-1 {
+  background-color: transparent;
+  height: 900px;
+  left: 420px;
+  position: absolute;
+  top: 234px;
+  width: 1400px;
+}
+
+.c2ctouchinteraction .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2ctouchinteraction .group-3 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

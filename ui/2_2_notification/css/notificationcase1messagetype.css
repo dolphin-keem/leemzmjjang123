@@ -1,0 +1,79 @@
+/* screen - notificationcase1messagetype */
+
+.notificationcase1messagetype {
+  background-color: var(--white);
+  height: 2297px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notificationcase1messagetype .group-3 {
+  background-color: transparent;
+  height: 656px;
+  left: 420px;
+  position: absolute;
+  top: 398px;
+  width: 1400px;
+}
+
+.notificationcase1messagetype .group-4 {
+  background-color: transparent;
+  height: 893px;
+  left: 420px;
+  position: absolute;
+  top: 1204px;
+  width: 1400px;
+}
+
+.notificationcase1messagetype .table-guide-title {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.notificationcase1messagetype .web-sub_-title_w-description {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.notificationcase1messagetype .rectangle-1 {
+  background-color: var(--concrete);
+  height: 1167px;
+  width: 320px;
+}
+
+.notificationcase1messagetype .rectangle-2 {
+  background-color: var(--concrete);
+  height: 1080px;
+  width: 320px;
+}
+
+.notificationcase1messagetype .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationcase1messagetype .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationcase1messagetype .rectangle-3 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}

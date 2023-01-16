@@ -1,0 +1,90 @@
+/* screen - c2clifetabloadingserviceplugin */
+
+.c2clifetabloadingserviceplugin {
+  background-color: var(--white);
+  height: 2706px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2clifetabloadingserviceplugin .group-6 {
+  background-color: transparent;
+  height: 440px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2clifetabloadingserviceplugin .group-8 {
+  background-color: transparent;
+  height: 758px;
+  left: 320px;
+  position: absolute;
+  top: 1748px;
+  width: 1600px;
+}
+
+.c2clifetabloadingserviceplugin .group-7 {
+  background-color: transparent;
+  height: 724px;
+  left: 420px;
+  position: absolute;
+  top: 874px;
+  width: 1134px;
+}
+
+.c2clifetabloadingserviceplugin .life-tab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 45px;
+}
+
+.c2clifetabloadingserviceplugin .service-card-health {
+  width: 112px;
+}
+
+.c2clifetabloadingserviceplugin .service-card-_-basic {
+  width: 144px;
+}
+
+.c2clifetabloadingserviceplugin .service-card-_-quick {
+  width: 173px;
+}
+
+.c2clifetabloadingserviceplugin .loading-_-service-pl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 157px;
+}
+
+.c2clifetabloadingserviceplugin .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .service-card {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+}

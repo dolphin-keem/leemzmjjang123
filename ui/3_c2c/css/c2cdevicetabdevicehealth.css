@@ -1,0 +1,55 @@
+/* screen - c2cdevicetabdevicehealth */
+
+.c2cdevicetabdevicehealth {
+  background-color: var(--white);
+  height: 1257px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cdevicetabdevicehealth .group-10 {
+  background-color: transparent;
+  height: 717px;
+  left: 420px;
+  position: absolute;
+  top: 341px;
+  width: 1400px;
+}
+
+.c2cdevicetabdevicehealth .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cdevicetabdevicehealth .device-card {
+  margin: 0 0 0 50px;
+  width: 71px;
+}
+
+.c2cdevicetabdevicehealth .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicehealth .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdevicetabdevicehealth .device {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  position: relative;
+}

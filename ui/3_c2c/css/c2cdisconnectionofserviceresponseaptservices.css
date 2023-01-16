@@ -1,0 +1,52 @@
+/* screen - c2cdisconnectionofserviceresponseaptservices */
+
+.c2cdisconnectionofserviceresponseaptservices {
+  background-color: var(--white);
+  height: 1602px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cdisconnectionofserviceresponseaptservices .group-4 {
+  background-color: transparent;
+  height: 287px;
+  left: 420px;
+  position: absolute;
+  top: 466px;
+  width: 1400px;
+}
+
+.c2cdisconnectionofserviceresponseaptservices .group-3 {
+  background-color: transparent;
+  height: 650px;
+  left: 420px;
+  position: absolute;
+  top: 752px;
+  width: 965px;
+}
+
+.c2cdisconnectionofserviceresponseaptservices .group-5 {
+  background-color: transparent;
+  height: 132px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cdisconnectionofserviceresponseaptservices .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cdisconnectionofserviceresponseaptservices .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

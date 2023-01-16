@@ -1,0 +1,101 @@
+/* screen - c2captserviceconnectioninteractionflow */
+
+.c2captserviceconnectioninteractionflow {
+  background-color: var(--white);
+  height: 4227px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2captserviceconnectioninteractionflow .group-12 {
+  background-color: transparent;
+  height: 1224px;
+  left: 420px;
+  position: absolute;
+  top: 1246px;
+  width: 1400px;
+}
+
+.c2captserviceconnectioninteractionflow .group-10 {
+  background-color: transparent;
+  height: 581px;
+  left: 420px;
+  position: absolute;
+  top: 2670px;
+  width: 1400px;
+}
+
+.c2captserviceconnectioninteractionflow .group-9 {
+  background-color: transparent;
+  height: 704px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1400px;
+}
+
+.c2captserviceconnectioninteractionflow .group-11 {
+  background-color: transparent;
+  height: 576px;
+  left: 420px;
+  position: absolute;
+  top: 3451px;
+  width: 1400px;
+}
+
+.c2captserviceconnectioninteractionflow .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2captserviceconnectioninteractionflow .overview {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 56px;
+}
+
+.c2captserviceconnectioninteractionflow .onboarding-start-p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.c2captserviceconnectioninteractionflow .onboarding-welcome {
+  width: 169px;
+}
+
+.c2captserviceconnectioninteractionflow .interaction-flow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 99px;
+}
+
+.c2captserviceconnectioninteractionflow .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectioninteractionflow .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

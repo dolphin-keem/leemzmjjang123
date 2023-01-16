@@ -1,0 +1,97 @@
+/* screen - c2caccesstokenrecoveryoverview */
+
+.c2caccesstokenrecoveryoverview {
+  background-color: var(--white);
+  height: 1835px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2caccesstokenrecoveryoverview .group-13 {
+  background-color: transparent;
+  height: 719px;
+  left: 420px;
+  position: absolute;
+  top: 916px;
+  width: 1400px;
+}
+
+.c2caccesstokenrecoveryoverview .group-48 {
+  background-color: transparent;
+  height: 324px;
+  left: 420px;
+  position: absolute;
+  top: 392px;
+  width: 1400px;
+}
+
+.c2caccesstokenrecoveryoverview .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2caccesstokenrecoveryoverview .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2caccesstokenrecoveryoverview .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2caccesstokenrecoveryoverview .overview {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 59px;
+}
+
+.c2caccesstokenrecoveryoverview .partner-refresh-toke {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 197px;
+}
+
+.c2caccesstokenrecoveryoverview .st-refresh-token-inv-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 175px;
+}
+
+.c2caccesstokenrecoveryoverview .interaction-flows-copy-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 104px;
+}
+
+.c2caccesstokenrecoveryoverview .famaily-hub-token {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 199px;
+}

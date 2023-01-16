@@ -1,0 +1,95 @@
+/* screen - c2coverviewinformationonlinkedapartmentaccounts */
+
+.c2coverviewinformationonlinkedapartmentaccounts {
+  background-color: var(--white);
+  height: 2333px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .group-21 {
+  background-color: transparent;
+  height: 997px;
+  left: 420px;
+  position: absolute;
+  top: 446px;
+  width: 1400px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .group-19 {
+  background-color: transparent;
+  height: 112px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .group-24 {
+  background-color: transparent;
+  height: 490px;
+  left: 420px;
+  position: absolute;
+  top: 1643px;
+  width: 1400px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 198px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .smart-apartment {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 102px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .smart-apartment-list {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 232px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .device-room {
+  width: 104px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .device-naming {
+  width: 91px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewinformationonlinkedapartmentaccounts .device {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+}

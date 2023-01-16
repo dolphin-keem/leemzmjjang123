@@ -1,0 +1,86 @@
+/* screen - c2coverviewaddsmartapartments */
+
+.c2coverviewaddsmartapartments {
+  background-color: var(--white);
+  height: 2512px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewaddsmartapartments .group-12 {
+  background-color: transparent;
+  height: 952px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2coverviewaddsmartapartments .group-14 {
+  background-color: transparent;
+  height: 876px;
+  left: 420px;
+  position: absolute;
+  top: 1436px;
+  width: 1400px;
+}
+
+.c2coverviewaddsmartapartments .copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 197px;
+}
+
+.c2coverviewaddsmartapartments .smart-apartment {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 102px;
+}
+
+.c2coverviewaddsmartapartments .smart-apartment-list {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 232px;
+}
+
+.c2coverviewaddsmartapartments .device-room {
+  width: 104px;
+}
+
+.c2coverviewaddsmartapartments .device-naming {
+  width: 91px;
+}
+
+.c2coverviewaddsmartapartments .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewaddsmartapartments .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewaddsmartapartments .device {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+}

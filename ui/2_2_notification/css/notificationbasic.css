@@ -1,0 +1,52 @@
+/* screen - notificationbasic */
+
+.notificationbasic {
+  background-color: var(--white);
+  height: 1394px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notificationbasic .group-1 {
+  background-color: transparent;
+  height: 910px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.notificationbasic .rectangle-1 {
+  background-color: var(--concrete);
+  height: 1167px;
+  width: 320px;
+}
+
+.notificationbasic .rectangle-2 {
+  background-color: var(--concrete);
+  height: 1080px;
+  width: 320px;
+}
+
+.notificationbasic .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationbasic .group-3 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.notificationbasic .rectangle-3 {
+  background-color: var(--shark);
+  height: 64px;
+  width: 1920px;
+}

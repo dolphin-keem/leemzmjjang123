@@ -1,0 +1,80 @@
+/* screen - notificationbasicoverview */
+
+.notificationbasicoverview {
+  background-color: var(--white);
+  height: 1210px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.notificationbasicoverview .web-sub_-title_w-description {
+  background-color: transparent;
+  height: 114px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.notificationbasicoverview .rectangle-2 {
+  background-color: transparent;
+  height: 556px;
+  left: 989px;
+  position: absolute;
+  top: 454px;
+  width: 831px;
+}
+
+.notificationbasicoverview .rectangle-1 {
+  background-color: transparent;
+  height: 321px;
+  left: 419px;
+  position: absolute;
+  top: 454px;
+  width: 437px;
+}
+
+.notificationbasicoverview .table-guide-title {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 398px;
+  width: 1400px;
+}
+
+.notificationbasicoverview .rectangle-3 {
+  background-color: var(--concrete);
+  height: 1167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.notificationbasicoverview .rectangle-4 {
+  background-color: var(--concrete);
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.notificationbasicoverview .rectangle-5 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.notificationbasicoverview .group {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
